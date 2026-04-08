@@ -1,6 +1,6 @@
 # One Health Security
 
-Biosecurity | One Health | Epidemiological Modelling | Molecular Precision
+Biosecurity | One Health | Epidemiological Modelling
 
 ---
 
@@ -21,10 +21,6 @@ Structured modelling of zoonotic risk and intervention strategies
 ### 🤖 Outbreak Simulation
 
 Stochastic modelling of infectious disease dynamics under uncertainty
-
-### 🧬 Molecular Precision
-
-Structured representation of biological systems using SBOL-inspired approaches, with exploration of nanoscale biological interactions
 
 ---
 
@@ -56,7 +52,6 @@ All work is aligned with **The BioChain**, a framework for secure biological dat
 
 * One Health Policy Modelling
 * Outbreak Simulation Under Uncertainty
-* Molecular Precision (SBOL and nano-bio interaction models)
 
 ---
 
