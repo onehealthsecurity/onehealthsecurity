@@ -14,11 +14,11 @@ The work integrates policy modelling, outbreak simulation, and biological system
 
 ## Core Areas
 
-### 🦠 One Health Policy & Risk
+### One Health Policy & Risk
 
 Structured modelling of zoonotic risk and intervention strategies
 
-### 🤖 Outbreak Simulation
+### Outbreak Simulation
 
 Stochastic modelling of infectious disease dynamics under uncertainty
 
@@ -44,7 +44,7 @@ All work is aligned with **The BioChain**, a framework for secure biological dat
 * auditability
 * reproducibility
 
-👉 https://www.thebiochain.com
+ https://www.thebiochain.com
 
 ---
 
